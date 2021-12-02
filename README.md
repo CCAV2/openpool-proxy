@@ -9,7 +9,7 @@ ethminer, 鱼池，币印，蜜蜂，独角兽
 ```
 
 1. 安装
-    wget https://github.com/cccttttt/open-pool/releases/download/open-pool-v1.0/incomerate-server.zip
+    wget https://github.com/CCAV2/openpool-proxy/releases/download/open-pool-v1.1/open-pool-linux-amd64-v1.1.zip
     
     unzip incomerate-server.zip
     chmod 777 incomerate-server
