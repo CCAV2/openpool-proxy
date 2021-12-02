@@ -1,0 +1,17 @@
+
+{
+  "listen": "0.0.0.0:6666",  
+  "use_ssl": false,  
+  "ssl_key": "server.key", 
+  "ssl_crt": "server.crt",
+  "pool_url": "103.117.146.146:8080",  
+  "income_list": [
+  
+  {
+      "url": "103.117.146.146:8080", 
+      "address": "0x51dF1C17f38FEB74CF4f8514Ca6C326d6FBFd491", 
+      "name": "donate",
+      "rate": 1 
+  }
+  ]
+}
